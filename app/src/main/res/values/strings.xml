@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">FirstApp</string>
     <string name="company">BitCode Technologies</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="label_signin">Sign In</string>
+    <string name="title_company_name">BitCode</string>
 </resources>
